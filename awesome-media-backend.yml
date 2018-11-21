@@ -17,5 +17,5 @@ spring:
   h2:
     console:
       enabled: true
-      
-name: taewon111
+
+name: taewon-edit
